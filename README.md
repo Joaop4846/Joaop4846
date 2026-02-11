@@ -2,6 +2,10 @@
 <h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
+🎓 Graduado em Ciência da Computação <br>
+🏢 2 anos de experiência em estágio na Telefônica Vivo <br>
+🟡 Certificado Yellow Belt Six Sigma <br><br>
+
 Apaixonado por tecnologia e desenvolvimento web.<br>
 Focado em construir aplicações completas, APIs e sistemas funcionais.<br>
 Buscando minha primeira oportunidade como desenvolvedor.
