@@ -49,7 +49,6 @@ Buscando minha primeira oportunidade como desenvolvedor.
 ### 🗄 Banco de Dados
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
