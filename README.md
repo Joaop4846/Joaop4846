@@ -17,7 +17,7 @@ Buscando minha primeira oportunidade como desenvolvedor.
 </a>
 
 <a href="mailto:joaop4846@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -44,7 +44,6 @@ Buscando minha primeira oportunidade como desenvolvedor.
 
 ## 🔧 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![API](https://img.shields.io/badge/APIs-000000?style=for-the-badge)
 
 ---
 
@@ -64,5 +63,6 @@ Buscando minha primeira oportunidade como desenvolvedor.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
